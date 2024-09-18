@@ -1,2 +1,2 @@
-# dev_env_project
+# DEV Env Project
 Development environment with AWS and Terraform
